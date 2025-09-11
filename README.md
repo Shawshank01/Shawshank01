@@ -65,20 +65,18 @@ endpoints:
 
 ### 📜 More About Me (for humans and recruiters)
 
-- 🎓 Currently studying **Advanced Software Engineering**, graduating end of 2025  
-- 🔐 Interested in **cybersecurity, data systems, and digital health**  
-- 🛰️ Passionate about **astronomy, TRPGs, and tech culture**  
-- 🏀 Play basketball for fun (and to balance out the screen time)  
+- 🎓 Currently studying **Advanced Software Engineering**, graduating end of 2025
+- 🔐 Interested in **cybersecurity, data systems, and digital health**
+- 🛰️ Passionate about **astronomy, TRPGs, and tech culture**
+- 🏀 Play basketball for fun (and to balance out the screen time)
 
-💡 *Think of the API section as the geeky intro, and this section as the plain-English one.*  
+💡 *Think of the API section as the geeky intro, and this section as the plain-English one.*
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight)
-
----
 
 
 ---
