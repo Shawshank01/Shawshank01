@@ -82,8 +82,7 @@ Beyond coding, I'm passionate about:
 
 ### 📈 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
