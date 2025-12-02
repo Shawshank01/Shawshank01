@@ -36,18 +36,6 @@ endpoints:
 
 ---
 
-### 👨‍💻 Endpoints for Interaction
-
-| Endpoint | Description | Link |
-| :--- | :--- | :--- |
-| **`/history`** | Discussing everything from the Punic Wars to the Space Race. | [Connect →](https://mastodon.social/@haruhayuku) |
-| **`/astronomy`** | Exploring nebulae, black holes, and the search for exoplanets. | [Connect →](https://mastodon.social/@haruhayuku) |
-| **`/trpg`** | Building worlds and rolling dice. Currently running a D&D 5e campaign. | [Connect →](https://mastodon.social/@haruhayuku) |
-| **`/cybersecurity`** | Focusing on ethical hacking and network defense. | [Connect →](https://mastodon.social/@haruhayuku) |
-| **`/basketball`** | Debating GOATs and analyzing game-winning plays. | [Connect →](https://mastodon.social/@haruhayuku) |
-
----
-
 ### 🛠️ My Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,6 +54,7 @@ endpoints:
 
 - 🎓 Currently studying **Advanced Software Engineering**, graduating end of 2025
 - 🔐 Interested in **cybersecurity, data systems, and digital health**
+- I write about tech and other musings at my [personal blog](https://x.zaku.eu.org/)
 - 🛰️ Passionate about **astronomy, TRPGs, and tech culture**
 - 🏀 Play basketball for fun (and to balance out the screen time)
 
