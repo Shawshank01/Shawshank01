@@ -14,50 +14,21 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 **Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Databases & Tools:**
-![PostgreSQL](https://img.shields.io/badge/postgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Welcome to My Profile!
+### 📈 GitHub Activity
 
-You've reached the personal API of **Shawshank01**.  
-Here's the spec for `/api/v1/me`:
-
-```yaml
-# /api/v1/me
-
-name: Shawshank01
-description: "A software developer with a passion for building things and exploring new ideas."
-contact: "lelouch@outlook.ie"
-
-endpoints:
-  - endpoint: "/history"
-    methods: [GET, POST]
-    description: "GET fun facts about ancient civilizations. POST book recommendations."
-
-  - endpoint: "/astronomy"
-    methods: [GET]
-    description: "Query for the latest news from the JWST or discuss cosmological theories."
-
-  - endpoint: "/trpg"
-    methods: [POST]
-    description: "Submit a new character idea or an invitation to a one-shot campaign."
-
-  - endpoint: "/cybersecurity"
-    methods: [GET]
-    description: "Fetch my thoughts on threat intelligence, network security, and defensive strategies."
-
-  - endpoint: "/basketball"
-    methods: [GET]
-    description: "Pull stats, hot takes on recent games, and classic NBA lore."
-```
+![Top Languages](https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -70,19 +41,41 @@ endpoints:
 
 ### 📜 More About Me
 
+You've reached the personal API of **Shawshank01**. Here's the spec for `/api/v1/me`:
+
+```yaml
+# /api/v1/me
+
+name: Shawshank01
+description: "A software developer with a passion for building things and exploring new ideas."
+
+endpoints:
+  - endpoint: "/social-threat-guardian"
+    methods: [GET]
+    description: "AI-powered system to detect and monitor social media threats, using NLP and visualisation tools."
+    repo: "https://github.com/Shawshank01/social-threat-guardian"
+
+  - endpoint: "/proxy_sh"
+    methods: [GET]
+    description: "Automated shell script to easily install and manage Xray proxy (VLESS-REALITY) on Linux systems using Docker."
+    repo: "https://github.com/Shawshank01/proxy_sh"
+
+  - endpoint: "/yt-downloader-electron"
+    methods: [GET]
+    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube, X, TikTok, and other sites supported by yt-dlp without tweaking with the command line."
+    repo: "https://github.com/Shawshank01/yt-downloader-electron"
+
+  - endpoint: "/xAI-native"
+    methods: [GET]
+    description: "Using xAI API (Grok) with GUI client on your local machine and say goodbye to cmd."
+    repo: "https://github.com/Shawshank01/xAI-native"
+```
+
 Beyond coding, I'm passionate about:
-- 🛰️ **Astronomy** - Following JWST discoveries and cosmological theories
-- 🎲 **TRPGs** - Tabletop role-playing games and game design
-- 🏀 **Basketball** - Playing for fun and staying active
-- 📚 **History** - Ancient civilizations and historical narratives
-
-💡 *Think of the API section as the geeky intro, and this section as the plain-English one.*
-
----
-
-### 📈 GitHub Activity
-
-![Top Languages](https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight&hide_border=true)
+- 🛰️ **Astronomy**: Fascinated by cosmic wonders like the Pillars of Creation and JWST discoveries
+- 🎲 **TRPGs**: Love Call of Cthulhu and other Lovecraftian horror tabletop adventures
+- 🏀 **Basketball**: Denver Nuggets fan, following their games and NBA action
+- 📚 **History**: Enthusiastic about Arthurian legends, Ancient Greek, Roman History, and Renaissance
 
 ---
 
