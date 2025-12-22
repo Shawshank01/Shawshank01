@@ -62,8 +62,8 @@ endpoints:
 
   - endpoint: "/yt-downloader-electron"
     methods: [GET]
-    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube, X, TikTok,
-    and other sites supported by yt-dlp without tweaking with the command line."
+    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube
+                  and other sites supported by yt-dlp without tweaking with the command line."
     repo: "https://github.com/Shawshank01/yt-downloader-electron"
 
   - endpoint: "/xAI-native"
