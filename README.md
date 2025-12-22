@@ -57,12 +57,13 @@ endpoints:
 
   - endpoint: "/proxy_sh"
     methods: [GET]
-    description: "Automated shell script to easily install and manage Xray proxy (VLESS-REALITY) on Linux systems using Docker."
+    description: "Automated shell script to easily install and manage proxy on Linux systems using Docker."
     repo: "https://github.com/Shawshank01/proxy_sh"
 
   - endpoint: "/yt-downloader-electron"
     methods: [GET]
-    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube, X, TikTok, and other sites supported by yt-dlp without tweaking with the command line."
+    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube, X, TikTok,
+    and other sites supported by yt-dlp without tweaking with the command line."
     repo: "https://github.com/Shawshank01/yt-downloader-electron"
 
   - endpoint: "/xAI-native"
