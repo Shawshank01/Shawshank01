@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Software Engineer | Cybersecurity Enthusiast | Advanced Software Engineering Student
+### Advanced Software Engineer | Cybersecurity Enthusiast  
 
 Passionate about building secure, scalable systems  
 Interested in **cybersecurity, data systems, and network infrastructure**
