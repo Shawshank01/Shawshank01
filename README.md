@@ -1,6 +1,6 @@
 # Hi there ☺️
 
-### Advanced Software Engineer | Cybersecurity Enthusiast  
+### Full-Stack Software Engineer
 
 Passionate about building secure, scalable systems  
 Interested in **cybersecurity, data systems, and network infrastructure**
@@ -15,16 +15,22 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Databases & Tools:**
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/YugabyteDB-003366?style=for-the-badge&logo=yugabytedb&logoColor=white)
+**Databases & Data Systems:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi42NDMgNEg3LjM1N0MzLjI5NCA0IDAgNy4yOTQgMCAxMS4zNTd2MS4yODZDMCAxNi43MDYgMy4yOTQgMjAgNy4zNTcgMjBoOS4yODZDMjAuNzA2IDIwIDI0IDE2LjcwNiAyNCAxMi42NDN2LTEuMjg2QzI0IDcuMjk0IDIwLjcwNiA0IDE2LjY0MyA0em0zLjkyOSA4LjY0M2MwIDIuMTY3LTEuNzYyIDMuOTI5LTMuOTI5IDMuOTI5SDcuMzU3Yy0yLjE2NyAwLTMuOTI5LTEuNzYyLTMuOTI5LTMuOTI5di0xLjI4NmMwLTIuMTY3IDEuNzYyLTMuOTI5IDMuOTI5LTMuOTI5aDkuMjg2YzIuMTY3IDAgMy45MjkgMS43NjIgMy45MjkgMy45Mjl2MS4yODZ6Ii8%2BPC9zdmc%2B&logoColor=white)
+![YugabyteDB](https://img.shields.io/badge/YugabyteDB-003366?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjMzIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE0LjAyIDBoNTcuMjg2YzQuMTIuMDI2IDYuNDMuMTg0IDguMzIzIDEuMTNhMTAuNjUgMTAuNjUgMCAwIDEgNC41NDMgNC41NDNjMS4xMzYgMi4yMDUgMS4xMzYgNS4xNDUgMS4xMzYgMTEuMDI0bC0uMDA1IDc2LjY3M2MtLjAyOCA2LjU3OC0uMjM2IDEwLjE5OC0xLjggMTIuNTE0YTEwLjQzIDEwLjQzIDAgMCAxLTYuODggNC40MWMtMi43OC40NjMtNi4xMS0uODgtMTIuMDgxLTMuNjM5TDMzLjMwOSA5Mi4wMzRjLTkuODgtNC43MS0xNS41ODUtNy44MTEtMjAuMDItMTIuMTM4QTQ0LjkgNDQuOSAwIDAgMSAyLjUzMyA2My4wNjFDLjQ3OCA1Ny4yNzQuMDg3IDUwLjgzLjAxMiAzOS44NjdMMCAxMy45OTZDLjAyNiA5Ljg3Ny4xODQgNy41NjYgMS4xMyA1LjY3M0ExMC42NSAxMC42NSAwIDAgMSA1LjY3MyAxLjEzQzcuNTY2LjE4NCA5LjkyMy4wMjYgMTQuMDIgMHptMTcwLjY2NCAwaDU3LjMxNGM0LjEyLjAyNiA2LjQzLjE4NCA4LjMyMyAxLjEzYTEwLjY1IDEwLjY1IDAgMCAxIDQuNTQzIDQuNTQzYzEuMTM2IDIuMjA1IDEuMTM2IDUuMTQ1IDEuMTM2IDExLjAyNHYyNS44NzFjLS4wNzUgMTAuOTYzLS40NjYgMTcuNDA3LTIuNTIxIDIzLjE5NGE0NC45IDQ0LjkgMCAwIDEtMTAuNzU2IDE2LjgzNWMtNC40MzUgNC4zMjctMTAuMTQgNy40MjgtMjAuMDIgMTIuMTM4bC0zMS4yMzMgMTQuNjIxYy01Ljk3MSAyLjc2LTkuMzAxIDQuMTAyLTEyLjA4MSAzLjYzOWExMC40MyAxMC40MyAwIDAgMS02Ljg4LTQuNDFjLTEuNTY0LTIuMzE2LTEuNzcyLTUuOTM2LTEuOC0xMi41MTRsLS4wMDUtNzYuNjczYzAtNS44NzkgMC04LjgxOSAxLjEzNi0xMS4wMjRhMTAuNjUgMTAuNjUgMCAwIDEgNC41NDMtNC41NDNjMS44OTMtLjk0NiA0LjIwMy0xLjEwNCA4LjMyMy0xLjEzek05OS4zNDQgMTI2Ljc4NmM1Ljk3MS0yLjc2IDkuMzAxLTQuMTAyIDEyLjA4MS0zLjYzOWExMC40MyAxMC40MyAwIDAgMSA2Ljg4IDQuNDFjMS41NjQgMi4zMTYgMS43NzIgNS45MzYgMS44IDEyLjUxNGwuMDA1IDc2LjY3M2MwIDUuODc5IDAgOC44MTktMS4xMzYgMTEuMDI0YTEwLjY1IDEwLjY1IDAgMCAxLTQuNTQzIDQuNTQzYy0xLjg5My45NDYtNC4yMDMgMS4xMDQtOC4zMjMgMS4xM0g0OC43OTVjLTQuMTItLjAyNi02LjQzLS4xODQtOC4zMjMtMS4xM2ExMC42NSAxMC42NSAwIDAgMS00LjU0My00LjU0M2MtMS4xMzYtMi4yMDUtMS4xMzYtNS4xNDUtMS4xMzYtMTEuMDI0di0yNS44NzFjLjA3NS0xMC45NjMuNDY2LTE3LjQwNyAyLjUyMS0yMy4xOTRhNDQuOSA0NC45IDAgMCAxIDEwLjc1Ni0xNi44MzVjNC40MzUtNC4zMjcgMTAuMTQtNy40MjgtMjAuMDIgMTIuMTM4eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
+
+**DevOps & Systems:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Web & Build Tools:**
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
