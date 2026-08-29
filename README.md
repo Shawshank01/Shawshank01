@@ -1,6 +1,6 @@
 # Hi there ☺️
 
-### Full-Stack Software Engineer
+## Full-Stack Software Engineer
 
 Passionate about building secure, scalable systems  
 Interested in **cybersecurity, data systems, and network infrastructure**
@@ -43,7 +43,6 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 
 ### 🚀 Featured Projects
 
-
 *Check out my repositories for more projects and contributions, especially the Pin ones!*
 
 ---
@@ -82,6 +81,7 @@ endpoints:
 ```
 
 Beyond coding, I'm passionate about:
+
 - 🛰️ **Astronomy**: Fascinated by cosmic wonders like the Pillars of Creation and JWST discoveries
 - 🎲 **TRPGs**: Love Call of Cthulhu and other Lovecraftian horror tabletop adventures
 - 🏀 **Basketball**: Denver Nuggets fan, following their games and NBA action
@@ -89,9 +89,10 @@ Beyond coding, I'm passionate about:
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Connect
 
 I'm always open to discussing:
+
 - 💼 **Job opportunities** in software engineering, cybersecurity, or data systems
 - 🤝 **Collaborations** on interesting projects
 - 💡 **Tech discussions** and knowledge sharing
