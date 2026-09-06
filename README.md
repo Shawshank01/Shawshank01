@@ -18,8 +18,9 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frameworks & Web Tools:**
+**Frameworks & Tools:**
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Databases & Data Systems:**
@@ -33,7 +34,6 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -67,12 +67,12 @@ endpoints:
 
   - endpoint: "/proxy_sh"
     methods: [GET]
-    description: "Automated shell script to easily install and manage proxy on Linux systems using Docker."
+    description: "A shell script to easily install and manage Docker container of Xray (VLESS-XHTTP-REALITY) and Shadowsocks (ss-2022) proxy server on VPS."
     repo: "https://github.com/Shawshank01/proxy_sh"
 
   - endpoint: "/yt-downloader-electron"
     methods: [GET]
-    description: "Simple, cross-platform GUI application for downloading videos and audio files from YouTube and other sites supported by yt-dlp without tweaking with the command line."
+    description: "A simple, cross-platform GUI for downloading videos/audios from YouTube, X/Twitter, TikTok, Reddit and others supported by yt-dlp, add subtitles into video by FFmpeg, without command lines."
     repo: "https://github.com/Shawshank01/yt-downloader-electron"
 
   - endpoint: "/signal-media-bot"
