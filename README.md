@@ -51,34 +51,36 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 
 ### 📜 More About Me
 
-You've reached the personal API of **Shawshank01**. Here's the spec for `/api/v1/me`:
+You've reached the personal API of **Shawshank01**. Here's the route manifest for `/api/v1`:
 
 ```yaml
-# /api/v1/me
+# /api/v1 - Routing Manifest
 
-name: Shawshank01
-description: "A software developer with a passion for building things and exploring new ideas."
+api_version: "v1"
+service: "shawshank01"
+base_path: "/api/v1"
+description: "A software developer with a passion for building secure, scalable systems."
 
-endpoints:
-  - endpoint: "/social-threat-guardian"
-    methods: [GET]
+routes:
+  - path: "/social-threat-guardian"
+    method: GET
     description: "AI-powered system to detect and monitor social media threats, using NLP and visualisation tools."
-    repo: "https://github.com/Shawshank01/social-threat-guardian"
+    upstream: "https://github.com/Shawshank01/social-threat-guardian"
 
-  - endpoint: "/proxy_sh"
-    methods: [GET]
+  - path: "/proxy_sh"
+    method: GET
     description: "A shell script to easily install and manage Docker container of Xray (VLESS-XHTTP-REALITY) and Shadowsocks (ss-2022) proxy server on VPS."
-    repo: "https://github.com/Shawshank01/proxy_sh"
+    upstream: "https://github.com/Shawshank01/proxy_sh"
 
-  - endpoint: "/yt-downloader-electron"
-    methods: [GET]
+  - path: "/yt-downloader-electron"
+    method: GET
     description: "A simple, cross-platform GUI for downloading videos/audios from YouTube, X/Twitter, TikTok, Reddit and others supported by yt-dlp, add subtitles into video by FFmpeg, without command lines."
-    repo: "https://github.com/Shawshank01/yt-downloader-electron"
+    upstream: "https://github.com/Shawshank01/yt-downloader-electron"
 
-  - endpoint: "/signal-media-bot"
-    methods: [GET]
+  - path: "/signal-media-bot"
+    method: GET
     description: "A Signal bot to download videos/images from Twitter/X, Bsky, YouTube, TikTok, Instagram, Reddit into native playable attachments."
-    repo: "https://github.com/Shawshank01/signal-media-bot"
+    upstream: "https://github.com/Shawshank01/signal-media-bot"
 ```
 
 Beyond coding, I'm passionate about:
