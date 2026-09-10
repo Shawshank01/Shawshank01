@@ -9,7 +9,7 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,19 +37,13 @@ Interested in **cybersecurity, data systems, and network infrastructure**
 
 ---
 
-### 📈 GitHub Activity
+### GitHub Activity
 
 ![Top Languages](https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🚀 Featured Projects
-
-*Check out my repositories for more projects and contributions, especially the Pin ones!*
-
----
-
-### 📜 More About Me
+### About Me
 
 You've reached the personal API of **Shawshank01**. Here's the route manifest for `/api/v1`:
 
@@ -92,7 +86,7 @@ Beyond coding, I'm passionate about:
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm always open to discussing:
 
@@ -100,4 +94,4 @@ I'm always open to discussing:
 - 🤝 **Collaborations** on interesting projects
 - 💡 **Tech discussions** and knowledge sharing
 
-⭐ Thanks for stopping by my profile!
+Thanks for stopping by my profile!
