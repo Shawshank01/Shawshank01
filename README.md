@@ -3,7 +3,7 @@
 ## Full-Stack Software Engineer
 
 Passionate about building secure, scalable systems  
-Interested in **cybersecurity, data systems, and network infrastructure**
+Interested in **cybersecurity and network infrastructure**
 
 [📜 Blog](https://zaku.eu.org/) • [📧 Email](mailto:lelouch@outlook.ie) • [🔓 PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/C111875B7AD2296F29B48ED5D3C329D856555164)
 
