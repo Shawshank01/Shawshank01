@@ -5,7 +5,7 @@
 Passionate about building secure, scalable systems  
 Interested in **cybersecurity and network infrastructure**
 
-[📜 Blog](https://zaku.eu.org/) • [📧 Email](mailto:lelouch@outlook.ie) • [<img src="./assets/openpgp.svg" width="16" height="16" align="middle" alt="OpenPGP" /> OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C111875B7AD2296F29B48ED5D3C329D856555164)
+[📜 Blog](https://zaku.eu.org/) • [📧 Email](mailto:lelouch@outlook.ie) • [<img src="./assets/openpgp.svg" width="16" height="16" alt="OpenPGP" /> OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C111875B7AD2296F29B48ED5D3C329D856555164)
 
 ---
 
