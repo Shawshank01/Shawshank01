@@ -3,7 +3,7 @@
 ## Full-Stack Software Engineer
 
 Passionate about building secure, scalable systems  
-Interested in **cybersecurity and network infrastructure**
+Interested in **cybersecurity** and **network infrastructure**
 
 [📜 Blog](https://zaku.eu.org/) • [📧 Email](mailto:lelouch@outlook.ie) • [<img src="./assets/openpgp.svg" width="16" height="16" alt="OpenPGP" /> OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C111875B7AD2296F29B48ED5D3C329D856555164)
 
@@ -50,17 +50,17 @@ routes:
 
   - path: "/proxy_sh"
     method: GET
-    description: "A shell script to easily install and manage Docker container of Xray (VLESS-XHTTP-REALITY) and Shadowsocks (ss-2022) proxy server on VPS."
+    description: "A shell script to easily install and manage Docker container of Xray (VLESS-XHTTP-REALITY) and Shadowsocks (ss-2022) proxy server on Linux."
     upstream: "https://github.com/Shawshank01/proxy_sh"
 
   - path: "/yt-downloader-electron"
     method: GET
-    description: "A simple, cross-platform GUI for downloading videos/audios from YouTube, X/Twitter, TikTok, Reddit and others supported by yt-dlp, add subtitles into video by FFmpeg, without command lines."
+    description: "A cross-platform GUI with an AI assistant for downloading, editing and managing videos/audios."
     upstream: "https://github.com/Shawshank01/yt-downloader-electron"
 
   - path: "/signal-media-bot"
     method: GET
-    description: "A Signal bot to download videos/images from Twitter/X, Bsky, YouTube, TikTok, Instagram, Reddit into native playable attachments."
+    description: "A Signal bot for downloading media from YouTube, Twitter/X, Bsky, TikTok, Instagram, Reddit as native, playable attachments."
     upstream: "https://github.com/Shawshank01/signal-media-bot"
 ```
 
