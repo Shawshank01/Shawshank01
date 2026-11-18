@@ -26,7 +26,16 @@ Interested in **cybersecurity** and **network infrastructure**
 
 ### GitHub Activity
 
-![Top Languages](https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-eight-sigma-50.vercel.app/api/top-langs/?username=Shawshank01&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/github-activity.svg" width="280" alt="All-time GitHub contribution breakdown by commits, pull requests, issues, and code reviews" />
+    </td>
+  </tr>
+</table>
 
 ---
 
