@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="280" height="211" viewBox="0 0 280 211" role="img" aria-labelledby="title description">
   <title id="title">GitHub contributions across all years</title>
-  <desc id="description">Code reviews: 2% (35); Issues: 2% (35); Pull requests: 7% (125); Commits: 88% (1495)</desc>
+  <desc id="description">Code reviews: 2% (35); Issues: 2% (35); Pull requests: 7% (125); Commits: 89% (1523)</desc>
   <rect width="280" height="211" rx="8" fill="#1a1b27"/>
   <path d="M91 124h98 M140 75v98" stroke="#565f89"/>
-  <polygon points="140.00,122.85 141.15,124.00 140.00,128.10 91.00,124.00" fill="#9ece6a" fill-opacity="0.28" stroke="#9ece6a" stroke-width="1.5"/>
-  <circle cx="140.00" cy="122.85" r="2.7" fill="#9ece6a"/><circle cx="141.15" cy="124.00" r="2.7" fill="#9ece6a"/><circle cx="140.00" cy="128.10" r="2.7" fill="#9ece6a"/><circle cx="91.00" cy="124.00" r="2.7" fill="#9ece6a"/>
+  <polygon points="140.00,122.87 141.13,124.00 140.00,128.02 91.00,124.00" fill="#9ece6a" fill-opacity="0.28" stroke="#9ece6a" stroke-width="1.5"/>
+  <circle cx="140.00" cy="122.87" r="2.7" fill="#9ece6a"/><circle cx="141.13" cy="124.00" r="2.7" fill="#9ece6a"/><circle cx="140.00" cy="128.02" r="2.7" fill="#9ece6a"/><circle cx="91.00" cy="124.00" r="2.7" fill="#9ece6a"/>
   <g fill="#c0caf5" font-family="system-ui, sans-serif" text-anchor="middle" font-size="12">
     <text x="140" y="25" fill="#7aa2f7" font-size="15" font-weight="600">Contributions · All time</text>
-    <text x="140" y="54" font-weight="600">2%</text><text x="140" y="69">Code reviews</text><text x="238" y="119" font-weight="600">2%</text><text x="238" y="134">Issues</text><text x="140" y="185" font-weight="600">7%</text><text x="140" y="200">Pull requests</text><text x="42" y="119" font-weight="600">88%</text><text x="42" y="134">Commits</text>
+    <text x="140" y="54" font-weight="600">2%</text><text x="140" y="69">Code reviews</text><text x="238" y="119" font-weight="600">2%</text><text x="238" y="134">Issues</text><text x="140" y="185" font-weight="600">7%</text><text x="140" y="200">Pull requests</text><text x="42" y="119" font-weight="600">89%</text><text x="42" y="134">Commits</text>
   </g>
 </svg>
